@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" tvg-logo="https://i.imgur.com/0O7R0jW.png" group-title="Turkey",Show TV
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 
 #EXTINF:-1 tvg-name="CBC Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/6f/CBC_Sport_logo.png" group-title="Sport", CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
