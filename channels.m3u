@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CBC Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/6f/CBC_Sport_logo.png/1200px-CBC_Sport_logo.png" group-title="Sport", CBC Sport
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
