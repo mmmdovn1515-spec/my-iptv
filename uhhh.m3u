@@ -1,14 +1,519 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa" group-title="TR",ATV Avrupa (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
-#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" tvg-logo="https://i.imgur.com/0O7R0jW.png" group-title="Turkey",Show TV
-https://showtv.blutv.com/blutv_showtv_live/live.m3u8
-
-#EXTINF:-1 tvg-name="CBC Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/6f/CBC_Sport_logo.png" group-title="Sport", CBC Sport
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="İctimai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Ictimai_TV_logo.png" group-title="TV", İctimai TV
-http://example.com/ictimai_live.m3u8
-
-#EXTINF:-1 tvg-name="AzTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/AzTV_logo.png" group-title="TV", AzTV
-http://example.com/aztv_live.m3u8
+#EXTINF:0 type="stream" channelId="641", Az Tv HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/966/index.m3u8
+#EXTINF:-1, İctimai Tv HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2195/index.m3u8
+#EXTINF:0 , ATV Azərbaycan Tv HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/16045/index.m3u8
+#EXTINF:0 tvg-rec="3", ATV Cinema AZ
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2120/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Xəzər Tv HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2199/index.m3u8
+#EXTINF:0 tvg-rec="3", ARB TV HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2187/index.m3u8
+#EXTINF:0 tvg-rec="3", Space Tv HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2190/index.m3u8
+#EXTINF:0 tvg-rec="3", ARB 24 HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2188/index.m3u8
+#EXTINF:-1 , Dünya Tv HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2192/index.m3u8
+#EXTINF:0 tvg-rec="3", FTV AZ
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:0 type="stream" channelId="-1", CBC Tv SD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2196/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CBC Sport Tv HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2193/index.m3u8
+#EXTINF:0 type="stream" channelId="823", Mədəniyyət Tv HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2197/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", İdman Azərbaycan Tv HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/16044/index.m3u8
+#EXTINF:0 tvg-rec="3", ARB Gunes HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2189/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Baku TV
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/16047/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", APA Tv
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:0 type="stream" channelId="-1", Alvin Channel Mingəçevir Tv
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w240058222.m3u8
+#EXTINF:0 type="stream" channelId="927", EL Tv
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", AZStar Tv
+http://live.livestreamtv.ca/azstar/azstar/playlist.m3u8
+#EXTINF:0, Könül TV
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
+#EXTINF:0 tvg-rec="3", Muz TV AZ
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2191/index.m3u8
+#EXTINF:0 tvg-rec="0", Show Plus TV AZ
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/16067/index.m3u8
+#EXTINF:0 tvg-rec="0", VIP TV AZ
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/16052/index.m3u8
+#EXTINF:0 tvg-rec="3", Premier Sports 2 HD UK
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2069/index.m3u8
+#EXTINF:0 tvg-rec="3", ATV FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6885/index.m3u8
+#EXTINF:0 tvg-rec="3", ATV HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6886/index.m3u8
+#EXTINF:0 tvg-rec="3", ATV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6887/index.m3u8
+#EXTINF:0 tvg-rec="3", ATV Avrupa TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6888/index.m3u8
+#EXTINF:0 tvg-rec="3", Show TV HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2307/index.m3u8
+#EXTINF:0 tvg-rec="3", Show TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6889/index.m3u8
+#EXTINF:0 tvg-rec="3", Show Turk TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6797/index.m3u8
+#EXTINF:0 tvg-rec="3", Star TV FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6893/index.m3u8
+#EXTINF:0 tvg-rec="3", Star TV HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2301/index.m3u8
+#EXTINF:0 tvg-rec="3", Eurostar HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6894/index.m3u8
+#EXTINF:0 tvg-rec="3", Kanal D HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2304/index.m3u8
+#EXTINF:0 tvg-rec="3", Kanal D
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2326/index.m3u8
+#EXTINF:0 tvg-rec="3", Kanal D TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6891/index.m3u8
+#EXTINF:0 tvg-rec="3", NOW HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2309/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox TV FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6900/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox TV HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6901/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox TV TR
+https://www.nowtv.com.tr/canli-yayin
+#EXTINF:0 tvg-rec="3", TRT 1 FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6883/index.m3u8
+#EXTINF:0 tvg-rec="3", TRT 1 HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2293/index.m3u8
+#EXTINF:0 tvg-rec="3", TRT 1
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2283/index.m3u8
+#EXTINF:0 tvg-rec="3", TV 8 FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6895/index.m3u8
+#EXTINF:0 tvg-rec="3", TV 8 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6896/index.m3u8
+#EXTINF:0 tvg-rec="3", TV 8 Int TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6897/index.m3u8
+#EXTINF:0 tvg-rec="3", TV8 HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2286/index.m3u8
+#EXTINF:0 tvg-rec="3", TV 8.5 FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6898/index.m3u8
+#EXTINF:0 tvg-rec="3", TV 8.5 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6899/index.m3u8
+#EXTINF:0 tvg-rec="3", TV8,5 HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2318/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT 4K
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/4001/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT HD 4K
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/9032/index.m3u8
+#EXTINF:0 tvg-rec="0",TRT TURK EUROPA
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2281/index.m3u8
+#EXTINF:0 tvg-rec="3",A SPORT
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2256/index.m3u8
+#EXTINF:0 tvg-rec="3",Kanal 7 HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2257/index.m3u8
+#EXTINF:0 tvg-rec="3",A HABER
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2259/index.m3u8
+#EXTINF:0 tvg-rec="3",A2
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2260/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV T
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2261/index.m3u8
+#EXTINF:0 tvg-rec="3",minikaGO
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2266/index.m3u8
+#EXTINF:0 tvg-rec="3",NR1 TURK TV HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2267/index.m3u8
+#EXTINF:0 tvg-rec="3",STAR TV
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2274/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT 1
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2283/index.m3u8
+#EXTINF:0 tvg-rec="3",TV8 HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2286/index.m3u8
+#EXTINF:0 tvg-rec="3",DMAX
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2290/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT 1 HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2293/index.m3u8
+#EXTINF:0 tvg-rec="3",A HABER HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2294/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2296/index.m3u8
+#EXTINF:0 tvg-rec="3",POWER HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2297/index.m3u8
+#EXTINF:0 tvg-rec="3",POWERTURK HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2298/index.m3u8
+#EXTINF:0 tvg-rec="3",NTV HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2299/index.m3u8
+#EXTINF:0 tvg-rec="3",DMAX HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2300/index.m3u8
+#EXTINF:0 tvg-rec="3",STAR TV HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2301/index.m3u8
+#EXTINF:0 tvg-rec="3",NTV
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2302/index.m3u8
+#EXTINF:0 tvg-rec="3",Minika Çocuk
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2303/index.m3u8
+#EXTINF:0 tvg-rec="3",Kanal D HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2304/index.m3u8
+#EXTINF:0 tvg-rec="3",CNN Turk HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2305/index.m3u8
+#EXTINF:0 tvg-rec="3",Teve 2 HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2306/index.m3u8
+#EXTINF:0 tvg-rec="3",Show TV HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2307/index.m3u8
+#EXTINF:0 tvg-rec="3",Haberturk HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2308/index.m3u8
+#EXTINF:0 tvg-rec="3",Beyaz TV HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2310/index.m3u8
+#EXTINF:0 tvg-rec="3",Ulke TV HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2311/index.m3u8
+#EXTINF:0 tvg-rec="3",Bloomberg HT
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2317/index.m3u8
+#EXTINF:0 tvg-rec="3",TV8,5 HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2318/index.m3u8
+#EXTINF:0 tvg-rec="3",24 TV HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2319/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 4 HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2321/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN SPORTS HABER
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2322/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN SPORTS HABER HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2323/index.m3u8
+#EXTINF:0 tvg-rec="3",CARTOON NETWORK TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2325/index.m3u8
+#EXTINF:0 tvg-rec="3",KANAL D
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2326/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 100 HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2328/index.m3u8
+#EXTINF:0 tvg-rec="3",360 HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2320/index.m3u8
+#EXTINF:0 tvg-rec="3",Loca 1 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6738/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Box Office 3 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6743/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Box Office 1 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6744/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Box Office 2 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6745/index.m3u8
+#EXTINF:0 tvg-rec="3",ARTI 1 TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6748/index.m3u8
+#EXTINF:0 tvg-rec="3",Uzay Haber TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6749/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 5 TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6751/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 41 TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6752/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 4 TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6753/index.m3u8
+#EXTINF:0 tvg-rec="3",Mavi Karadeniz TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6758/index.m3u8
+#EXTINF:0 tvg-rec="3",Line TV Bursa TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6759/index.m3u8
+#EXTINF:0 tvg-rec="3",Koy TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6761/index.m3u8
+#EXTINF:0 tvg-rec="3",Kibris Genc TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6762/index.m3u8
+#EXTINF:0 tvg-rec="3",Kardelen TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6763/index.m3u8
+#EXTINF:0 tvg-rec="3",Kanal Avrupa TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6766/index.m3u8
+#EXTINF:0 tvg-rec="3",ER TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6768/index.m3u8
+#EXTINF:0 tvg-rec="3",Deha TV Denizli TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6771/index.m3u8
+#EXTINF:0 tvg-rec="3",Ciftci TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6772/index.m3u8
+#EXTINF:0 tvg-rec="3",BRT 3 TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6774/index.m3u8
+#EXTINF:0 tvg-rec="3",BRT 2 TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6775/index.m3u8
+#EXTINF:0 tvg-rec="3",BRT 1 TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6776/index.m3u8
+#EXTINF:0 tvg-rec="3",AS TV Bursa TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6777/index.m3u8
+#EXTINF:0 tvg-rec="3",Anadolu Dernek TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6778/index.m3u8
+#EXTINF:0 tvg-rec="3",Anadolu TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6779/index.m3u8
+#EXTINF:0 tvg-rec="3",Akit TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6780/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 1 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6781/index.m3u8
+#EXTINF:0 tvg-rec="3",Turk Karadeniz TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6782/index.m3u8
+#EXTINF:0 tvg-rec="3",Ada TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6783/index.m3u8
+#EXTINF:0 tvg-rec="3",Vatan TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6784/index.m3u8
+#EXTINF:0 tvg-rec="3",Ucankus TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6785/index.m3u8
+#EXTINF:0 tvg-rec="3",TV Kayseri TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6786/index.m3u8
+#EXTINF:0 tvg-rec="3",Yaban HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6787/index.m3u8
+#EXTINF:0 tvg-rec="3",FM TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6789/index.m3u8
+#EXTINF:0 tvg-rec="3",Lalegul TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6790/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 2000 TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6791/index.m3u8
+#EXTINF:0 tvg-rec="3",Meltem TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6792/index.m3u8
+#EXTINF:0 tvg-rec="3",Dost TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6793/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Diyanet TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6794/index.m3u8
+#EXTINF:0 tvg-rec="3",TGRT EU TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6796/index.m3u8
+#EXTINF:0 tvg-rec="3",Show Turk TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6797/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Turk TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6798/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Avaz TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6799/index.m3u8
+#EXTINF:0 tvg-rec="3",DiziSmart Premium TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6802/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Gurme HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6804/index.m3u8
+#EXTINF:0 tvg-rec="3",FX HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6805/index.m3u8
+#EXTINF:0 tvg-rec="3",Sinema TV Aile TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6806/index.m3u8
+#EXTINF:0 tvg-rec="3",Movie Smart Turk TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6807/index.m3u8
+#EXTINF:0 tvg-rec="3",Movie Smart Classic HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6811/index.m3u8
+#EXTINF:0 tvg-rec="3",Movie Smart Action TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6812/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Series Vice TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6813/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Series Sci-fi TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6814/index.m3u8
+#EXTINF:0 tvg-rec="3",Tivibu Sport 2 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6816/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 1 (Yedek) HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6817/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 2 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6818/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 2 (Yedek) HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6819/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 3 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6820/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 3 (Yedek) HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6821/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 4 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6822/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 4 (Yedek) HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6823/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports Max 1 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6824/index.m3u8
+#EXTINF:0 tvg-rec="3",S Sport 1 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6825/index.m3u8
+#EXTINF:0 tvg-rec="3",Sports TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6828/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6829/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 2 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6830/index.m3u8
+#EXTINF:0 tvg-rec="3",A Sport TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6832/index.m3u8
+#EXTINF:0 tvg-rec="3",Galatasaray TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6834/index.m3u8
+#EXTINF:0 tvg-rec="3",TJK TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6837/index.m3u8
+#EXTINF:0 tvg-rec="3",NBA TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6838/index.m3u8
+#EXTINF:0 tvg-rec="3",Idman TV HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6840/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Cocuk HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6841/index.m3u8
+#EXTINF:0 tvg-rec="3",Disney Junior TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6842/index.m3u8
+#EXTINF:0 tvg-rec="3",Disney JR TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6843/index.m3u8
+#EXTINF:0 tvg-rec="3",Disney XD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6844/index.m3u8
+#EXTINF:0 tvg-rec="3",Baby TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6845/index.m3u8
+#EXTINF:0 tvg-rec="3",Cartoon Network TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6846/index.m3u8
+#EXTINF:0 tvg-rec="3",Nick Jr TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6847/index.m3u8
+#EXTINF:0 tvg-rec="3",Nickelodeon TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6848/index.m3u8
+#EXTINF:0 tvg-rec="3",Minika Cocuk TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6849/index.m3u8
+#EXTINF:0 tvg-rec="3",Boomerang HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6850/index.m3u8
+#EXTINF:0 tvg-rec="3",Minika Go TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6851/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Belgesel TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6852/index.m3u8
+#EXTINF:0 tvg-rec="3",24 Kitchen HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6853/index.m3u8
+#EXTINF:0 tvg-rec="3",BBC Earth HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6854/index.m3u8
+#EXTINF:0 tvg-rec="3",BBC Earth TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6855/index.m3u8
+#EXTINF:0 tvg-rec="3",History Channel HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6856/index.m3u8
+#EXTINF:0 tvg-rec="3",Da Vinci Learning HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6857/index.m3u8
+#EXTINF:0 tvg-rec="3",Animal Planet HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6858/index.m3u8
+#EXTINF:0 tvg-rec="3",Animal Planet TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6859/index.m3u8
+#EXTINF:0 tvg-rec="3",TGRT Belgesel TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6860/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Channel TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6861/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Science TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6863/index.m3u8
+#EXTINF:0 tvg-rec="3",Love Nature HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6864/index.m3u8
+#EXTINF:0 tvg-rec="3",NatGeo Wild HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6866/index.m3u8
+#EXTINF:0 tvg-rec="3",NatGeo HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6867/index.m3u8
+#EXTINF:0 tvg-rec="3",Yaban TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6868/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Muzik HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6869/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Muzik TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6870/index.m3u8
+#EXTINF:0 tvg-rec="3",Tatlises
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6872/index.m3u8
+#EXTINF:0 tvg-rec="3",Dream Turk FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6873/index.m3u8
+#EXTINF:0 tvg-rec="3",NR1 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6874/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Movies Action 2 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6876/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Movies Action HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6877/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Movies Family HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6878/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Movies Premiere 2 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6879/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Movies Premiere HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6880/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Series Comedy HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6881/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Series Drama HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6882/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT 1 FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6883/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT 2 FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6884/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6885/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6886/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6887/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV Avrupa TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6888/index.m3u8
+#EXTINF:0 tvg-rec="3",Show TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6889/index.m3u8
+#EXTINF:0 tvg-rec="3",Show Max TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6890/index.m3u8
+#EXTINF:0 tvg-rec="3",Kanal D TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6891/index.m3u8
+#EXTINF:0 tvg-rec="3",Euro D TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6892/index.m3u8
+#EXTINF:0 tvg-rec="3",Star TV FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6893/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurostar HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6894/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 8 FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6895/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 8 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6896/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 8 Int TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6897/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 8.5 FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6898/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 8.5 HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6899/index.m3u8
+#EXTINF:0 tvg-rec="3",Kanal 7 FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6903/index.m3u8
+#EXTINF:0 tvg-rec="3",Kanal 7 TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6904/index.m3u8
+#EXTINF:0 tvg-rec="3",Kanal 7 Avrupa TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6905/index.m3u8
+#EXTINF:0 tvg-rec="3",Beyaz TV FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6906/index.m3u8
+#EXTINF:0 tvg-rec="3",Beyaz TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6907/index.m3u8
+#EXTINF:0 tvg-rec="3",A2 TV FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6908/index.m3u8
+#EXTINF:0 tvg-rec="3",A Para FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6909/index.m3u8
+#EXTINF:0 tvg-rec="3",Teve2 FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6910/index.m3u8
+#EXTINF:0 tvg-rec="3",360 TV HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6911/index.m3u8
+#EXTINF:0 tvg-rec="3",Dmax FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6912/index.m3u8
+#EXTINF:0 tvg-rec="3",Dmax TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6913/index.m3u8
+#EXTINF:0 tvg-rec="3",TLC HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6914/index.m3u8
+#EXTINF:0 tvg-rec="3",TLC TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6915/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Eba TV Ilkokul HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6916/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Eba TV Ilkokul TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6917/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Eba TV Lise HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6918/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Eba TV Lise TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6919/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Eba TV Ortaokul HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6920/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT Haber HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6921/index.m3u8
+#EXTINF:0 tvg-rec="3",A Haber TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6923/index.m3u8
+#EXTINF:0 tvg-rec="3",NTV FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6924/index.m3u8
+#EXTINF:0 tvg-rec="3",NTV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6925/index.m3u8
+#EXTINF:0 tvg-rec="3",CNN Turk FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6926/index.m3u8
+#EXTINF:0 tvg-rec="3",Haber Turk FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6927/index.m3u8
+#EXTINF:0 tvg-rec="3",Global Haber TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6928/index.m3u8
+#EXTINF:0 tvg-rec="3",TV100 TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6929/index.m3u8
+#EXTINF:0 tvg-rec="3",Tele 1 TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6930/index.m3u8
+#EXTINF:0 tvg-rec="3",Ulusal Kanal TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6931/index.m3u8
+#EXTINF:0 tvg-rec="3",TGRT Haber FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6932/index.m3u8
+#EXTINF:0 tvg-rec="3",TGRT Haber HD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6933/index.m3u8
+#EXTINF:0 tvg-rec="3",Ulke TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6934/index.m3u8
+#EXTINF:0 tvg-rec="3",TV Net TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6936/index.m3u8
+#EXTINF:0 tvg-rec="3",A News FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6937/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports Haber FHD TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/6939/index.m3u8
+#EXTINF:0 tvg-rec="0",Kanal V TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/15252/index.m3u8
+#EXTINF:0 tvg-rec="0",Kocaeli TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/15253/index.m3u8
+#EXTINF:0 tvg-rec="0",Ege TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/15254/index.m3u8
+#EXTINF:0 tvg-rec="0",KRT TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/15255/index.m3u8
+#EXTINF:0 tvg-rec="0",Rumeli TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/15256/index.m3u8
+#EXTINF:0 tvg-rec="0",Kanal Cay TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/15257/index.m3u8
+#EXTINF:0 tvg-rec="0",T.A.Y TV TR
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/15258/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN IZ TV HD
+http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D
