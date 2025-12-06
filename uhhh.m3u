@@ -17,6 +17,8 @@ http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2190/index.m3u8
 http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2188/index.m3u8
 #EXTINF:-1 , Dünya Tv HD
 http://jek5dwct.otttv.pw/iptv/4VXV47HKW9629D/2192/index.m3u8
+#EXTINF:0, MahniTV
+https://xantv.site/MahniTV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-rec="3", FTV AZ
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:0 type="stream" channelId="-1", CBC Tv SD
