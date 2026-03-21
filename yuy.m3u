@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="CBC Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/6f/CBC_Sport_logo.png" group-title="Sport", CBC Sport
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="İctimai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Ictimai_TV_logo.png" group-title="TV", İctimai TV
+http://example.com/ictimai_live.m3u8
+
+#EXTINF:-1 tvg-name="AzTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/AzTV_logo.png" group-title="TV", AzTV
+http://example.com/aztv_live.m3u8
